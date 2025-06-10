@@ -17,7 +17,9 @@ cd pygame-survivor
 3. Run the Game
   python main.py
 🎮 Sneak Peek
-![image](https://github.com/user-attachments/assets/3fa1b8f6-3ee5-40f6-9152-35b1eaa7bb01)
+  
+![Screenshot 2025-06-10 104203](https://github.com/user-attachments/assets/7dbb0c89-983e-4791-9467-7ef78c6c2f63)
+
 
 
 🧠 Tech Stack
