@@ -17,9 +17,8 @@ cd pygame-survivor
 3. Run the Game
   python main.py
 🎮 Sneak Peek
-(Insert a cool screenshot or GIF of gameplay here!)
+![image](https://github.com/user-attachments/assets/3fa1b8f6-3ee5-40f6-9152-35b1eaa7bb01)
 
-Use PrtSc, ShareX, or OBS to grab your best moments!
 
 🧠 Tech Stack
 🐍 Python 3
