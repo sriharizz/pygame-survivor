@@ -16,11 +16,6 @@ cd pygame-survivor
   pip install pygame
 3. Run the Game
   python main.py
-🎮 Sneak Peek
-  
-![Screenshot 2025-06-10 104203](https://github.com/user-attachments/assets/7dbb0c89-983e-4791-9467-7ef78c6c2f63)
-
-
 
 🧠 Tech Stack
 🐍 Python 3
